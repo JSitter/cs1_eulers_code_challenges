@@ -10,7 +10,6 @@ MULTIPLES OF THREE AND FIVE
 '''
 
 class NumberWang():
-	index = 0
 	num_ary = []
 	limit = ""
 
